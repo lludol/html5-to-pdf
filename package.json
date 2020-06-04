@@ -34,7 +34,7 @@
   "devDependencies": {
     "coffee-script": "^1.12.7",
     "chai": "^4.1.2",
-    "fs-extra": "^4.0.2",
+    "fs-extra": "^9.0.1",
     "mocha": "^3.5.3",
     "sinon": "^3.2.1",
     "sinon-chai": "^2.13.0"
